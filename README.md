@@ -6,7 +6,7 @@
 
 # Visualize o site abaixo:
 
-[Veja-o aqui!(]https://to-do-list-three-steel-79.vercel.app/)
+[Veja-o aqui!(https://to-do-list-three-steel-79.vercel.app/)
 
 ## Tecnologias Aprendidas:
 
